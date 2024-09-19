@@ -1,5 +1,5 @@
 # Welcome 🌌
-I'm developer who designs and draws (making nightcore too)
+I'm a developer who designs and draws (making nightcore & daycore & trance too)
 #
 ## My Skills & Experience
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
