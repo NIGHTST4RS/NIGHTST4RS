@@ -13,7 +13,6 @@ I'm a developer who designs and draws (making nightcore & daycore & trance too)
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Qt/qt1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Tenacity/tenacity1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
