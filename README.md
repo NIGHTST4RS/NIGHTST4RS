@@ -42,6 +42,7 @@ I'm a developer who designs and draws (making nightcore & daycore & trance too)
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Audacity/audacity2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg">
 ## Platforms & Studios
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg">
