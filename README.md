@@ -36,7 +36,6 @@ I'm a developer who designs and codes (making nightcore & daycore & trance too)
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Audacity/audacity2.svg">
