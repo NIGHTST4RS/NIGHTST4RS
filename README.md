@@ -53,7 +53,6 @@ I'm a developer who designs and codes (making nightcore & daycore & trance too)
 <a href="https://steamcommunity.com/id/NIGHTST4RS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam2.svg"></a>
 <a href="https://profile.playstation.com/N1GH-7"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PlayStation/playstation1.svg"></a>
 <a href="https://www.xbox.com/en-US/play/user?gamertag=NIGHTST4RS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox1.svg"></a>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg">
 ## Socials & Donations (very much appreciated)
 <a href="https://discord.com/users/1041054242955337729"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg"></a> <a href="https://github.com/NIGHTST4RS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg"></a>
 <a href="https://www.linkedin.com/in/nightstars"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"></a>
