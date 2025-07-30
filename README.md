@@ -44,7 +44,8 @@ I'm a developer who designs and codes (making nightcore & daycore & trance too)
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg">
 ## Platforms & Studios
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">
