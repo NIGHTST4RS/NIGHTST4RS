@@ -57,9 +57,9 @@ I'm a developer who designs and codes (making nightcore & daycore & trance too)
 ## Socials & Donations (very much appreciated)
 <a href="https://discord.com/users/1041054242955337729"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg"></a> <a href="https://github.com/NIGHTST4RS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg"></a>
 <a href="https://www.linkedin.com/in/nightstars"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"></a>
-<a href="https://thegalaxystars.org"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg"></a>
+<a href="https://galaxistars.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg"></a>
 <a href="https://www.patreon.com/NightStars"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Patreon/patreon1.svg"></a>
-<a href="https://paypal.me/TheGalaxyStars"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal1.svg"></a>
+<a href="https://paypal.me/GalaxiStars"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal1.svg"></a>
 <a href="https://ko-fi.com/nightstars"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi1.svg"></a>
 #
 #### Thank you for reading ✨
