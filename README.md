@@ -1,5 +1,5 @@
 # Welcome 🌌
-I'm a developer who designs and codes (making nightcore & daycore & trance too)
+I'm a fullstack developer who codes and designs (making nightcore & daycore & trance too)
 #
 ## My Skills & Experience
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch2.svg">
